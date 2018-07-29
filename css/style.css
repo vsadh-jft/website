@@ -35,7 +35,7 @@ body a:hover,body a:focus {
 } 
 /*-- banner --*/
 .agileits-banner {
-	background:url(../images/a.jpg)no-repeat center 0px;
+	background:url(../images/header.jpg)no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
 	-moz-background-size:cover;
